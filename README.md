@@ -12,3 +12,8 @@ anything that I might not be familiar with.
 
 Remember to utilize Flexbox and the myriad ways in which it can
 be used to move around content. 
+
+**Remember with Flexbox there is only really one dimension:
+        column or row.
+
+**Each of the boxes should have a height specified
